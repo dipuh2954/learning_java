@@ -9,9 +9,12 @@ public class in_de_crement {
         x+=1;
         System.out.println(x);
 
-
-
         ++x;
+        System.out.println(x);
+
+        x--;
+        System.out.println(x);
+        --x;
         System.out.println(x);
     }
 }
