@@ -1,3 +1,5 @@
+package Fundamentals;
+
 public class marks_calculator {
     public static void main(String[] args) {
         double sub_1 = 90;

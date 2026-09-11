@@ -1,3 +1,5 @@
+package Fundamentals;
+
 public class arithmatic {
     public static void main(String[] args) {
         int x = 5, y = 2;

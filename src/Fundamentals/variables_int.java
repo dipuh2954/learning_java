@@ -1,3 +1,5 @@
+package Fundamentals;
+
 public class variables_int {
     public static void main(String[] args) {
         int x;

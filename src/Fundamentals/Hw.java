@@ -1,3 +1,5 @@
+package Fundamentals;
+
 public class Hw {
     public static void main(String[] args) {
         double s1 = 40;

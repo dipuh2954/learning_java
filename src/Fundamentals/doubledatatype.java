@@ -1,3 +1,5 @@
+package Fundamentals;
+
 public class doubledatatype {
     public static void main(String[] args) {
         double x = 5;

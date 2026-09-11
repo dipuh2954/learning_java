@@ -1,3 +1,5 @@
+package Fundamentals;
+
 public class Simple_Interest {
     public static void main(String[] args) {
         double p,r,t,si;
