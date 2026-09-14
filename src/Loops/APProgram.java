@@ -8,14 +8,16 @@ public class APProgram {
         System.out.print("Enter the number upto you want to print: ");
         int num = sc.nextInt();
 
-        for (int i = 1; i<=(2*num-1); i+=2){
-            System.out.print(i+" ");
-        }
-        System.out.println();
-        for (int i = 4; i<=(3*num+1); i+=3){
-            System.out.print(i+" ");
-        }
-        System.out.println();
+//====================Hardcoded starting point and common difference=================
+//        for (int i = 1; i<=(2*num-1); i+=2){
+//            System.out.print(i+" ");
+//        }
+//        System.out.println();
+//        for (int i = 4; i<=(3*num+1); i+=3){
+//            System.out.print(i+" ");
+//        }
+//        System.out.println();
+
 
         System.out.print("Enter the starting number: ");
         int a = sc.nextInt();
